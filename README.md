@@ -25,10 +25,10 @@ An android application which detects and recognizes the objects and specifies th
 * Android Things - 0.4.1
 
 ## Work Flow
-
+![workflow-illustration](https://github.com/mohan-veer/Nethra-A-vision-in-dark/blob/master/images/workflow.jpg)
 
 ## Device
-
+![Device-image](https://github.com/mohan-veer/Nethra-A-vision-in-dark/blob/master/images/Nethra.jpg)
 
 
 
